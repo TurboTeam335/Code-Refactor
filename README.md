@@ -1,8 +1,6 @@
 # Code-Refactor
 
-Image
-
-desciption
+![portfolio demo](./assets/image/screenshot.png)
 
   - what
   - why
