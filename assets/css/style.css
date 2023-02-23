@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* This is the header where I added a justify-content to align the text to the right side of the screen */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,8 +63,8 @@ p {
     font-size: 16px;
 }
 
+/* This is setting the background image for the hero section where I changed the pixel height to fit the full picture. */
 .hero {
-    /* height: 800px; */
     height: 635px;
     width: 100%;
     margin-bottom: 25px;
